@@ -29,7 +29,7 @@ public final class MultiThreadedListSumClassic implements SumList {
         /**
          * Build a new worker.
          * 
-         * @param list
+         * @param list      
          *            the list to sum
          * @param startpos
          *            the initial position for this worker
